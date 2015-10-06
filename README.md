@@ -1,6 +1,8 @@
 Progressive Gantt Mods
 =========================
 
+[![Join the chat at https://gitter.im/stgeneral/redmine-progressive-gantt-mods](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stgeneral/redmine-progressive-gantt-mods?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Assignee column and some preferences for Gantt chart.
 
 ![Progressive Gantt Mods Screenshot](https://github.com/stgeneral/redmine-progressive-gantt-mods/releases/download/v0.0.1/progressive_gantt_mods-screen-en.png)
